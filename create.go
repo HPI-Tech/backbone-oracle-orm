@@ -1,12 +1,12 @@
 package oracle
 
 import (
-	"backbone/oracle/clauses"
 	"bytes"
 	"context"
 	"database/sql"
 	"reflect"
 
+	"github.com/hpi-tech/backbone-oracle-orm/clauses"
 	"github.com/thoas/go-funk"
 	"gorm.io/gorm"
 	"gorm.io/gorm/callbacks"
