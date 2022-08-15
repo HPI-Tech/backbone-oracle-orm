@@ -1,6 +1,6 @@
 module github.com/hpi-tech/backbone-oracle-orm
 
-go 1.18
+go 1.19
 
 require (
 	github.com/emirpasic/gods v1.18.1 // indirect
