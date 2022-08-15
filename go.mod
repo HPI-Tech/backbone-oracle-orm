@@ -1,4 +1,4 @@
-module backbone/oracle
+module github.com/hpi-tech/backbone-oracle-orm
 
 go 1.18
 
